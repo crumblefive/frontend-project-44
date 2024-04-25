@@ -1,0 +1,1 @@
+import { getRandomNumber, gameLogic } from "..index.js";
