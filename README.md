@@ -5,3 +5,4 @@
 <a href="https://asciinema.org/a/8YCYOt1ian0bk0GpWQ7xx3kZw" target="_blank"><img src="https://asciinema.org/a/8YCYOt1ian0bk0GpWQ7xx3kZw.svg" /></a> #ссылка на запись brain-calc на портале asciinema.org
 <a href="https://asciinema.org/a/9X31OyEuj5FGRF2psDNShzrx9" target="_blank"><img src="https://asciinema.org/a/9X31OyEuj5FGRF2psDNShzrx9.svg" /></a> #ссылка на запись brain-gcd на портале asciinema.org
 <a href="https://asciinema.org/a/9X31OyEuj5FGRF2psDNShzrx9" target="_blank"><img src="https://asciinema.org/a/9X31OyEuj5FGRF2psDNShzrx9.svg" /></a> #ссылка на запись brain-progression на портале asciinema.org
+<a href="https://asciinema.org/a/05USxR69YV7KkMDcCjHAk4WRa" target="_blank"><img src="https://asciinema.org/a/05USxR69YV7KkMDcCjHAk4WRa.svg" /></a> #ссылка на запись brain-prime на портале asciinema.org
