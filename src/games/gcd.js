@@ -3,7 +3,7 @@ import { getRandomNumber, gameLogic } from '../index.js';
 const gameRules = 'Find the greatest common divisor of given numbers.';
 
 const nod = (numb1, numb2) => {
-  if (numb2 === 0 ){
+  if (numb2 === 0) {
     return numb1;
   }
   return nod(numb2, numb1 % numb2);

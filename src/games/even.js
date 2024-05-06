@@ -1,4 +1,4 @@
-import {getRandomNumber, gameLogic} from '../index.js';
+import { getRandomNumber, gameLogic } from '../index.js';
 
 const gameRules = 'Answer "yes" if the number is even, otherwise answer "no".';
 
@@ -12,6 +12,5 @@ const generateRoundData = () => {
 };
 
 const evenGame = () => gameLogic(gameRules, generateRoundData);
-
 
 export default evenGame;
