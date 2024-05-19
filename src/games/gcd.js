@@ -6,7 +6,7 @@ const getGreatestCommonDivisor = (numb1, numb2) => {
   if (numb2 === 0) {
     return numb1;
   }
-  return nod(numb2, numb1 % numb2);
+  return getGreatestCommonDivisor(numb2, numb1 % numb2);
 };
 const generateRoundData = () => {
   const num1 = getRandomNumber(1, 100);
