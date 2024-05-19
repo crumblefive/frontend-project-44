@@ -4,7 +4,7 @@ const gameRules = 'What is the result of the expression?';
 
 const operands = ['+', '-', '*'];
 
-const expression = (num1, operator, num2) => {
+const getQuestion = (num1, operator, num2) => {
   switch (operator) {
     case '+':
       return num1 + num2;
@@ -22,7 +22,7 @@ const generateRoundData = () => {
   const num2 = getRandomNumber(1, 25);
   const randomOperator = operands[getRandomNumber(0, operands.length - 1)];
   const question = `${num1} ${randomOperator} ${num2}`;
-  const correctAnswer = `${expression(num1, randomOperator, num2)}`;
+  const correctAnswer = `${getQuestion(num1, randomOperator, num2)}`;
   return [question, correctAnswer];
 };
 
