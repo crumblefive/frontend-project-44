@@ -8,6 +8,7 @@ const generateRoundData = () => {
   const num = getRandomNumber(1, 99);
   const question = `${num}`;
   const correctAnswer = isEven(num) ? 'yes' : 'no';
+
   return [question, correctAnswer];
 };
 
